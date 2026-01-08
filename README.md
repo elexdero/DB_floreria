@@ -1,4 +1,4 @@
-# Flowers E commerce DB
+# Flower Shop (E commerce) DB
 
 If your user is ``postgres`` you can excecute de proyect using the following command:
 
