@@ -16,5 +16,5 @@ cd scripts/dev
 psql -U postgres -f build.sql
 ```
 
-[!IMPORTANT]
-Change `postgres` for your postgres user
+> [!WARNING]
+> Change `postgres` for your postgres user.
